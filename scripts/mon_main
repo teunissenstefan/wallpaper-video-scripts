@@ -1,1 +1,1 @@
-xwinwrap -ov -g 1920x1080+2966+900 -- mpv -wid WID ./videos/tree_snow_0.mp4 --no-osc --no-osd-bar --loop-file --player-operation-mode=cplayer --no-audio --panscan=1.0 --no-input-default-bindings
+xwinwrap -ov -g 1920x1080+2966+900 -- mpv -wid WID /home/teunissenstefan/repos/xwinwrap-christmas/videos/tree_snow_0.mp4 --no-osc --no-osd-bar --loop-file --player-operation-mode=cplayer --no-audio --panscan=1.0 --no-input-default-bindings

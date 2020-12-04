@@ -1,4 +1,4 @@
-./scripts/mon_left &
-./scripts/mon_main &
-./scripts/mon_mid &
-./scripts/mon_top &
+/home/teunissenstefan/repos/xwinwrap-christmas/scripts/mon_left &
+/home/teunissenstefan/repos/xwinwrap-christmas/scripts/mon_main &
+/home/teunissenstefan/repos/xwinwrap-christmas/scripts/mon_mid &
+/home/teunissenstefan/repos/xwinwrap-christmas/scripts/mon_top &

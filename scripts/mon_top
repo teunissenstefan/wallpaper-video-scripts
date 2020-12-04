@@ -1,1 +1,1 @@
-xwinwrap -ov -g 1600x900+3126+0 -- mpv -wid WID ./videos/fireplace_tree.mp4 --no-osc --no-osd-bar --loop-file --player-operation-mode=cplayer --no-audio --panscan=1.0 --no-input-default-bindings
+xwinwrap -ov -g 1600x900+3126+0 -- mpv -wid WID /home/teunissenstefan/repos/xwinwrap-christmas/videos/fireplace_tree.mp4 --no-osc --no-osd-bar --loop-file --player-operation-mode=cplayer --no-audio --panscan=1.0 --no-input-default-bindings
