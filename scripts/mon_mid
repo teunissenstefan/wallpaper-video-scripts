@@ -1,0 +1,1 @@
+xwinwrap -ov -g 1366x768+1600+1055 -- mpv -wid WID ./videos/forest_snow.mp4 --no-osc --no-osd-bar --loop-file --player-operation-mode=cplayer --no-audio --panscan=1.0 --no-input-default-bindings
