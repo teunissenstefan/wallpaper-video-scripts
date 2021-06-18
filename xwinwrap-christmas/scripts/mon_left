@@ -1,0 +1,1 @@
+xwinwrap -ov -g 1600x900+0+990 -- mpv -wid WID /home/teunissenstefan/repos/wallpaper-video-scripts/xwinwrap-christmas/videos/tree_snow_1.mp4 --no-osc --no-osd-bar --loop-file --player-operation-mode=cplayer --no-audio --panscan=1.0 --no-input-default-bindings
